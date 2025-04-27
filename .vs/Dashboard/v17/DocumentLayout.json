@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|c:\\users\\user\\source\\repos\\dashboard\\dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|c:\\users\\user\\source\\repos\\dashboard\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|c:\\users\\user\\source\\repos\\dashboard\\dashboard\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|c:\\users\\user\\source\\repos\\dashboard\\dashboard\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|c:\\users\\user\\source\\repos\\dashboard\\dashboard\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|c:\\users\\user\\source\\repos\\dashboard\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|c:\\users\\user\\source\\repos\\dashboard\\dashboard\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|c:\\users\\user\\source\\repos\\dashboard\\dashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{785B244E-B1C4-4349-8103-583CCA19E975}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dashboard\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Dashboard\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T06:18:21.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Dashboard\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T06:16:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dashboard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T04:20:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Dashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T04:23:10.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Dashboard\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:00:51.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dashboard\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Dashboard\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T06:10:14.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Dashboard\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:44:14.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\appsettings.json",
+              "RelativeDocumentMoniker": "Dashboard\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Dashboard\\Dashboard\\appsettings.json",
+              "RelativeToolTip": "Dashboard\\appsettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T05:45:20.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
